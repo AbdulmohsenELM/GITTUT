@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-dev test
-=======
-master test
->>>>>>> master
