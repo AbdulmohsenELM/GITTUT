@@ -1,9 +1,0 @@
-<<<<<<< HEAD
-master test
-=======
-<<<<<<< HEAD
-dev test
-=======
-master test
->>>>>>> master
->>>>>>> Development
